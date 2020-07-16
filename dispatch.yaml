@@ -1,0 +1,6 @@
+dispatch:
+  - url: "*/helloworldv1"
+    service: helloworldv1
+
+  - url: "*/helloworldv2"
+    service: helloworldv2
